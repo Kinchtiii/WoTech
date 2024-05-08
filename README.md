@@ -5,7 +5,7 @@ README file uses mark-down language syntax to edit any text, forulas or codes.
 - Python
 - Github
 
-Another list:
+## Another list:
 1. First
 2. Second
 3. Third
