@@ -1,5 +1,5 @@
 # WoTech
-README file uses mark-down language syntax to edit any text, forulas or codes.
+README file uses mark-down language syntax to edit any text, forulas or codes. 👌 (win+dot)
 ## My skills:
 - Java
 - Python
