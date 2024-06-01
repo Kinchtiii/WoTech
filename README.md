@@ -5,10 +5,9 @@ README file uses mark-down language syntax to edit any text, forulas or codes. ð
 - Python
 - Github
 
-## Another list:
-1. First
-2. Second
-3. Third
+## Individual tasks in repository:
+1. Bank Deposit Challenge
+
 
 ## My favourite part of the code:
 
